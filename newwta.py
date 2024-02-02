@@ -7,5 +7,4 @@ class weapon:
         
         pass
     def shoot():
-        pass
-class        
+        pass   
